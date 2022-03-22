@@ -9,7 +9,7 @@
   
   inputs.src-scnim-master.flake = false;
   inputs.src-scnim-master.owner = "capocasa";
-  inputs.src-scnim-master.ref   = "refs/heads/master";
+  inputs.src-scnim-master.ref   = "master";
   inputs.src-scnim-master.repo  = "scnim";
   inputs.src-scnim-master.type  = "github";
   

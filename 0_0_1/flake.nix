@@ -9,7 +9,7 @@
   
   inputs.src-scnim-0_0_1.flake = false;
   inputs.src-scnim-0_0_1.owner = "capocasa";
-  inputs.src-scnim-0_0_1.ref   = "refs/tags/0.0.1";
+  inputs.src-scnim-0_0_1.ref   = "0_0_1";
   inputs.src-scnim-0_0_1.repo  = "scnim";
   inputs.src-scnim-0_0_1.type  = "github";
   
